@@ -3,7 +3,7 @@
 
 <a href="https://elitizmir.xyz/">İlanlara Ulaşmak İçin Tıklayın!</a>
 
-<a src="https://elitizmir.xyz/resims/ilanlarigorun.jpg" href="https://elitizmir.xyz/"></a>
+<img src="https://elitizmir.xyz/resims/ilanlarigorun.jpg"><a href="https://elitizmir.xyz/"></a></img>
 
 
 En güzel İzmir Escort kızları elden ödeme seçeneği ile sizleri beklemekte. Hem hijyenik hemde keyif veren bayanlar.
